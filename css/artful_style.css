@@ -1,0 +1,34 @@
+/* 
+    Document   : WP Artful.ly Style
+*/
+
+input.get-content {
+    background: none repeat scroll 0 0 #E5E5E5 !important;
+    border: 1px solid #FFFFFF;
+    box-shadow: 0 0 2px 0 #666666;
+    cursor: pointer;
+    padding: 2px 5px;
+}
+
+.entry-content #artfully-event ul > li {
+    list-style-type:none;
+}
+
+#artfully-event .event-name {
+    margin-top:0;
+    margin-bottom:10px;
+}
+
+#artfully-event .event-subtitle {
+    margin-top:0;
+    margin-bottom:10px;
+}
+
+#artfully-event .event-producer {
+    margin-top:0;
+    margin-bottom:20px;
+}
+
+#donation input {
+    margin-bottom:10px;
+}
